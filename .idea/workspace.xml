@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15cf3fb2-8144-4477-8115-54aae221c134" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hD6v93qs9T7QuySfJBzs9RbVTi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PractiseSpringKafkaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practise.practise_spring_kafka.PractiseSpringKafkaApplication" />
+      <module name="practise_spring_kafka.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="practice_spring_kafka" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="practice_spring_kafka" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PractiseSpringKafkaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15cf3fb2-8144-4477-8115-54aae221c134" name="Default Changelist" comment="" />
+      <created>1599533544940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599533544940</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1599569789865">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1599569789865" />
+    <state x="348" y="371" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1599569190641">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="348" y="371" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1599569190641" />
+    <state x="496" y="326" width="452" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599569204617">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="496" y="326" width="452" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1599569204617" />
+    <state x="483" y="160" key="#xdebugger.evaluate" timestamp="1599569660591">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="483" y="160" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1599569660591" />
+    <state width="480" height="466" key="DebuggerActiveHint" timestamp="1599570114705">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="480" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1599570114705" />
+    <state x="538" y="376" key="Github.CreateGistDialog" timestamp="1599571426288">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="538" y="376" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1599571426288" />
+    <state width="1398" height="323" key="GridCell.Tab.0.bottom" timestamp="1599571935889">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="323" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599571935889" />
+    <state width="1398" height="323" key="GridCell.Tab.0.center" timestamp="1599571935888">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="323" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599571935888" />
+    <state width="1398" height="323" key="GridCell.Tab.0.left" timestamp="1599571935887">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="323" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599571935887" />
+    <state width="1398" height="323" key="GridCell.Tab.0.right" timestamp="1599571935888">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="323" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599571935888" />
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1599570225366">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599570225366" />
+    <state width="1398" height="285" key="GridCell.Tab.1.center" timestamp="1599570225363">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1599570225363" />
+    <state width="1398" height="285" key="GridCell.Tab.1.left" timestamp="1599570225362">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1599570225362" />
+    <state width="1398" height="285" key="GridCell.Tab.1.right" timestamp="1599570225365">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1599570225365" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1599571362234">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1599571362234" />
+    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1599570114687">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1599570114687" />
+    <state x="522" y="235" key="chooseDestDirectoryDialog" timestamp="1599560628016">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="522" y="235" key="chooseDestDirectoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1599560628016" />
+    <state x="427" y="205" width="586" height="490" key="find.popup" timestamp="1599535528021">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="205" width="586" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1599535528021" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1599569300582">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1599569300582" />
+  </component>
+</project>

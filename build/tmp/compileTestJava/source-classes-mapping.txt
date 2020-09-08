@@ -1,0 +1,2 @@
+com/practise/practise_spring_kafka/PractiseSpringKafkaApplicationTests.java
+ com.practise.practise_spring_kafka.PractiseSpringKafkaApplicationTests
