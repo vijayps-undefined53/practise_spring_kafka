@@ -1,5 +1,5 @@
 # practice_spring_kafka
-This is an application to produce and consume using kafak through spring for apache kafka.
+This is an application to produce and consume using kafka through spring for apache kafka.
 
 //Start And Stop Kafka
 installed kafka and zookeeper using brew
