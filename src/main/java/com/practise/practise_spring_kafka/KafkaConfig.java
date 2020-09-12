@@ -1,9 +1,6 @@
 package com.practise.practise_spring_kafka;
 
-import com.practise.practise_spring_kafka.SampleObject;
 import org.apache.kafka.clients.producer.ProducerConfig;
-import org.apache.kafka.common.serialization.ByteArrayDeserializer;
-import org.apache.kafka.common.serialization.ByteArraySerializer;
 import org.apache.kafka.common.serialization.StringDeserializer;
 import org.apache.kafka.common.serialization.StringSerializer;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -41,7 +38,7 @@ public class KafkaConfig {
 
     @Bean
     public ConsumerFactory<String, SampleObject> consumerFactory() {
-        Map<String, Object> configProps = new HashMap<>(kafkaProperties.buildProducerProperties());
+        Map<String, Object> configProps = new HashMap<>(kafkaProperties.buildConsumerProperties());
         return new DefaultKafkaConsumerFactory(configProps, new StringDeserializer(), new JsonDeserializer(SampleObject.class));
     }
 

@@ -2,6 +2,7 @@ package com.practise.practise_spring_kafka;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -13,6 +14,7 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.websocket.SendResult;
 
+@Slf4j
 @RestController
 public class KafkaController {
     @Autowired
@@ -22,6 +24,7 @@ public class KafkaController {
 
     @PostMapping(value = "/send")
     public ResponseEntity<String> postValues(@RequestBody SampleObject message, @RequestParam String topic) {
+        log.info("Sending Values");
         if (topic == null) {
             topic = "test-topic";
         }
@@ -46,7 +49,7 @@ public class KafkaController {
     @GetMapping(value = "/getValuesInTopic")
     @KafkaListener(topics = "test-topic", groupId = "foo")
     public ResponseEntity<SampleObject> getValuesInTopic(SampleObject message) throws JsonProcessingException {
-        System.out.println("Received message=" + objectMapper.writeValueAsString(message));
+        log.info("Received message=" + objectMapper.writeValueAsString(message));
         return new ResponseEntity<>(message, HttpStatus.OK);
     }
 
